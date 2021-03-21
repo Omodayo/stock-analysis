@@ -6,7 +6,7 @@ The analysis results shows that;
 ### In 2017
 * All stocks with the exception of one (ticker:TERP) gained in value
   - Top 3 stocks with most gains are;
-    1. DQ (199% gain)
+    1) DQ (199% gain)
     2. SEDG (184% gain)
     3. ENPH (129% gain)
 ## Summaries
