@@ -10,7 +10,7 @@ The analysis results shows that;
     - SEDG (184% gain)
     - ENPH (129% gain)
     - FSLR (101% gain)
-- ![2017_Analyisis_Result](
+* The execution time for the refactored analysis is approximately 0.57 secs., which is about 0.05 secs. longer than the original analysis (original analyisi is run without the formatting code)
 ### In 2018
 * Only two stocks had value gains (ENPH: 82% gain and, RUN: 84% gain)
 * DQ, Steve's parents choice of stock recorded a loss of 62% in value
