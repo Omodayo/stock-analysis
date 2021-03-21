@@ -1,8 +1,6 @@
 # Stock-Analysis
 ## Project Overview
-Louise is an up and coming playwright with a new play named "Fever". Louise is looking for a way to fund this play by starting a crowd funding campaign.
-She has an estimated budget in mind, but she is hesitant about jumping both feet first into the sea of crowd funding without informed knowledge of how successful, or not, past crowd funding campaigns have been, particularly for plays.
-The purpose of this kickstarter project is to help set Louise up for success by analysing historical excel data for past campaigns, to find if there are any specific factors that make a crowd funding campaign successful.
+Steve is a recent graduate of Finance. His parents are passionate about alternative energy future prospect and want to invest in a green energy stock, specificaly in a company called DAQO New Energy Corporation. Steve's parents have not done much research about the potential growth of this company's stock and have decided to invest all of their money in the company. This project is to provide Steve with information that can help his parents invest wisely and diversify their portfolio by analysing past performance of a handful of other green energy stocks in addition to DAQO's. This analysis is done on excel performance data  for a handful of green energy stocks in 2017 and 2018 using VBA.
 ## Results
 ## Summaries
 Data analysis of green energy stocks to uncover trends for investment decision
