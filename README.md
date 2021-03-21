@@ -22,5 +22,12 @@ The analysis results shows that;
 * Based on the years of data provided, the best stock to invest in is ENPH, with gains in both years
 * For portfolio diversification, DQ, FSLR, SEDG are also good to invest in, simply because of ther positive overall gains accross both years
   - NOTE: For more conclusive analysis result, I will suggest more years of data to see performance over long period
-## Summaries
-Data analysis of green energy stocks to uncover trends for investment decision
+## Summary
+### Advantages of refactoring
+* It Improves the design of codes
+* It makes codes easier to understand by others
+* It helps to find bugs in codess and,
+### Disadvantages of refactoring
+* It can be costly and time consuming sometimes
+* It can make codes even more complex if not done properly
+
