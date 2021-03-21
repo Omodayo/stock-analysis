@@ -9,5 +9,9 @@ The analysis results shows that;
     - DQ (199% gain)
     - SEDG (184% gain)
     - ENPH (129% gain)
+### In 2018
+* Only two stocks had value gains (ENPH: 82% gain and, RUN: 84% gain)
+* DQ, Steve's parents choice of stock recorded a loss of 62% in value
+* ENPH is the only stock that continued its gains in 2018, though less than 2017 gains
 ## Summaries
 Data analysis of green energy stocks to uncover trends for investment decision
