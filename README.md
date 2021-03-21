@@ -9,10 +9,15 @@ The analysis results shows that;
     - DQ (199% gain)
     - SEDG (184% gain)
     - ENPH (129% gain)
+    - FSLR (101% gain)
 - ![2017_Analyisis_Result](
 ### In 2018
 * Only two stocks had value gains (ENPH: 82% gain and, RUN: 84% gain)
 * DQ, Steve's parents choice of stock recorded a loss of 62% in value
 * ENPH is the only stock that continued its gains in 2018, though less than 2017 gains
+### Conclusions
+* Based on the years of data provided, the best stock to invest in is ENPH, with gains in both years
+* For portfolio diversification, DQ, FSLR, SEDG are also good to invest in, simply because of ther positive overall gains accross both years
+- NOTE:Fore more conclusive analysis result, I will suggest more years of data to see performance over long period
 ## Summaries
 Data analysis of green energy stocks to uncover trends for investment decision
