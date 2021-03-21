@@ -5,10 +5,10 @@ Steve is a recent graduate of Finance. His parents are passionate about alternat
 The analysis results shows that;
 ### In 2017
 * All stocks with the exception of one (ticker:TERP) gained in value
-* Top 3 stocks with most gains are;
-- DQ with about 199% gain
--ENPH with about 129% gain and,
--SEDG with about 184% gain
+  - Top 3 stocks with most gains are;
+    1 DQ with about 199% gain
+    2 ENPH with about 129% gain and,
+    3 SEDG with about 184% gain
 
 ## Summaries
 Data analysis of green energy stocks to uncover trends for investment decision
