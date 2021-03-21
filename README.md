@@ -23,11 +23,12 @@ The analysis results shows that;
 * For portfolio diversification, DQ, FSLR, SEDG are also good to invest in, simply because of ther positive overall gains accross both years
   - NOTE: For more conclusive analysis result, I will suggest more years of data to see performance over long period
 ## Summary
-### Advantages of refactoring
-* It Improves the design of codes
-* It makes codes easier to understand by others
-* It helps to find bugs in codess and,
-### Disadvantages of refactoring
-* It can be costly and time consuming sometimes
-* It can make codes even more complex if not done properly
+* Advantages of refactoring are;
+  - It Improves the design of codes
+  - It makes codes easier to understand by others
+  - It helps to find bugs in codess and,
+* Disadvantages of refactoring
+  - It can be costly and time consuming sometimes
+  - It can make codes even more complex if not done properly
+* The refacored analysis allowed for the code (including formatting) to be written and run in one single code with press on one button unlike the original analysis in which the analysis code and the formatting code are written and run separately.
 
