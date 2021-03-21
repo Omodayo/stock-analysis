@@ -9,6 +9,7 @@ The analysis results shows that;
     - DQ (199% gain)
     - SEDG (184% gain)
     - ENPH (129% gain)
+- ![2017_Analyisis_Result](
 ### In 2018
 * Only two stocks had value gains (ENPH: 82% gain and, RUN: 84% gain)
 * DQ, Steve's parents choice of stock recorded a loss of 62% in value
