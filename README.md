@@ -16,6 +16,7 @@ The analysis results shows that;
 * Only two stocks had value gains (ENPH: 82% gain and, RUN: 84% gain)
 * DQ, Steve's parents choice of stock recorded a loss of 62% in value
 * ENPH is the only stock that continued its gains in 2018, though less than 2017 gains
+- ![VBA_Challenge_2018](https://github.com/Omodayo/stock-analysis/blob/main/VBA_Challenge_2018.png)
 ### Conclusions
 * Based on the years of data provided, the best stock to invest in is ENPH, with gains in both years
 * For portfolio diversification, DQ, FSLR, SEDG are also good to invest in, simply because of ther positive overall gains accross both years
